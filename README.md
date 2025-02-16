@@ -1,2 +1,0 @@
-# drops
-blog publii test

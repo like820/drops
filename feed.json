@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "waterlike™",
+    "description": "",
+    "home_page_url": "https://waterlike.world/drops",
+    "feed_url": "https://waterlike.world/drops/feed.json",
+    "user_comment": "",
+    "icon": "https://waterlike.world/drops/media/website/favicon.png",
+    "author": {
+        "name": "jakwoda"
+    },
+    "items": [
+        {
+            "id": "https://waterlike.world/drops/hi.html",
+            "url": "https://waterlike.world/drops/hi.html",
+            "title": "hi",
+            "author": {
+                "name": "jakwoda"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-12T22:27:17+01:00",
+            "date_modified": "2025-02-12T22:27:17+01:00"
+        }
+    ]
+}

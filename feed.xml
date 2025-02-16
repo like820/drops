@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>waterlike™</title>
+    <link href="https://waterlike.world/drops/feed.xml" rel="self" />
+    <link href="https://waterlike.world/drops" />
+    <updated>2025-02-12T22:27:17+01:00</updated>
+    <author>
+        <name>jakwoda</name>
+    </author>
+    <id>https://waterlike.world/drops</id>
+
+    <entry>
+        <title>hi</title>
+        <author>
+            <name>jakwoda</name>
+        </author>
+        <link href="https://waterlike.world/drops/hi.html"/>
+        <id>https://waterlike.world/drops/hi.html</id>
+
+        <updated>2025-02-12T22:27:17+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
