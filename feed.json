@@ -2,38 +2,27 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "waterlike™",
     "description": "",
-    "home_page_url": "https://waterlike.world/drops",
-    "feed_url": "https://waterlike.world/drops/feed.json",
+    "home_page_url": "https://waterlike.tools/drops",
+    "feed_url": "https://waterlike.tools/drops/feed.json",
     "user_comment": "",
-    "icon": "https://waterlike.world/drops/media/website/favicon.png",
+    "icon": "https://waterlike.tools/drops/media/website/favicon.png",
     "author": {
         "name": "jakwoda"
     },
     "items": [
         {
-            "id": "https://waterlike.world/drops/emptty.html",
-            "url": "https://waterlike.world/drops/emptty.html",
-            "title": "EMPTTY",
-            "content_html": "<figure class=\"post__image\"><img  src=\"https://waterlike.world/drops/media/posts/6/Ivan-Illich-Tools-for-Conviviality.pdf\" alt=\"\"></figure><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://waterlike.world/drops/media/posts/6/Waterlike-Box-Print-Template-1.png\" alt=\"\" width=\"2894\" height=\"4096\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://waterlike.world/drops/media/posts/6/responsive/Waterlike-Box-Print-Template-1-xs.png 300w ,https://waterlike.world/drops/media/posts/6/responsive/Waterlike-Box-Print-Template-1-sm.png 480w ,https://waterlike.world/drops/media/posts/6/responsive/Waterlike-Box-Print-Template-1-md.png 768w ,https://waterlike.world/drops/media/posts/6/responsive/Waterlike-Box-Print-Template-1-lg.png 1024w\"></figure>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://waterlike.world/drops/media/posts/6/gallery/Waterlike-Box-Print-Template-1.png\" data-size=\"2894x4096\"><img loading=\"lazy\" src=\"https://waterlike.world/drops/media/posts/6/gallery/Waterlike-Box-Print-Template-1-thumbnail.png\" alt=\"\" width=\"768\" height=\"1087\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://waterlike.world/drops/media/posts/6/gallery/Waterlike-Box-Print-Template-a3.png\" data-size=\"2894x4096\"><img loading=\"lazy\" src=\"https://waterlike.world/drops/media/posts/6/gallery/Waterlike-Box-Print-Template-a3-thumbnail.png\" alt=\"\" width=\"768\" height=\"1087\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://waterlike.world/drops/media/posts/6/gallery/Waterlike-Box-Print-Template-a4.png\" data-size=\"2894x2048\"><img loading=\"lazy\" src=\"https://waterlike.world/drops/media/posts/6/gallery/Waterlike-Box-Print-Template-a4-thumbnail.png\" alt=\"\" width=\"768\" height=\"543\"></a></figure>\n</div></div>",
+            "id": "https://waterlike.tools/drops/jhchfgjckh.html",
+            "url": "https://waterlike.tools/drops/jhchfgjckh.html",
+            "title": "jhchfgjckh",
+            "summary": "hjhccvx",
+            "content_html": "<p> </p>\n<p> </p>\n<p>hjhccvx</p>",
             "author": {
                 "name": "jakwoda"
             },
             "tags": [
             ],
-            "date_published": "2025-02-16T02:52:53+01:00",
-            "date_modified": "2025-02-16T02:53:14+01:00"
-        },
-        {
-            "id": "https://waterlike.world/drops/hi1.html",
-            "url": "https://waterlike.world/drops/hi1.html",
-            "title": "hi1",
-            "author": {
-                "name": "jakwoda"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-02-16T02:52:22+01:00",
-            "date_modified": "2025-02-16T02:52:22+01:00"
+            "date_published": "2026-02-16T20:45:00+01:00",
+            "date_modified": "2026-02-16T20:47:35+01:00"
         }
     ]
 }

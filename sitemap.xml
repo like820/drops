@@ -1,35 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://waterlike.world/drops/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://waterlike.tools/drops/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://waterlike.world/drops/</loc>
+<loc>https://waterlike.tools/drops/</loc>
 </url>
 <url>
-<loc>https://waterlike.world/drops/emptty.html</loc>
-<lastmod>2025-02-16T02:53:14+01:00</lastmod>
-<image:image>
-<image:loc>https://waterlike.world/drops/media/posts/6/Ivan-Illich-Tools-for-Conviviality.pdf</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://waterlike.world/drops/media/posts/6/Waterlike-Box-Print-Template-1.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://waterlike.world/drops/media/posts/6/gallery/Waterlike-Box-Print-Template-1-thumbnail.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://waterlike.world/drops/media/posts/6/gallery/Waterlike-Box-Print-Template-a3-thumbnail.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://waterlike.world/drops/media/posts/6/gallery/Waterlike-Box-Print-Template-a4-thumbnail.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://waterlike.world/drops/hi1.html</loc>
-<lastmod>2025-02-16T02:52:22+01:00</lastmod>
+<loc>https://waterlike.tools/drops/jhchfgjckh.html</loc>
+<lastmod>2026-02-16T20:47:35+01:00</lastmod>
 </url>
 </urlset>
